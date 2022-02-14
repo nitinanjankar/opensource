@@ -1,16 +1,7 @@
-{
-    "CheckboxParameter": [
-        {
-          "key": "Deploy Core",
-          "value": "Deploy Core"
-        },
-        {
-          "key": "Deploy Campaign Manager",
-          "value": "Deploy Campaign Manager"
-        },
-        {
-          "key": "Deploy Web",
-          "value": "Deploy Web"
-        }
-    ]
-}
+CheckboxParameter:
+  - key: "Deploy Core"
+    value: "Deploy Core"
+  - key: "Deploy Campaign Manager"
+    value: "Deploy Campaign Manager"
+  - key: "Deploy Web"
+    value: "Deploy Web"
